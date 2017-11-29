@@ -1,0 +1,8 @@
+{
+  "port" : "3306",
+  "user" : "root",
+  "password" : "rkdska8790",
+  "database" : "Fire",
+  "connectionLimit" : 20
+}
+
